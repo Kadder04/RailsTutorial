@@ -1,5 +1,3 @@
-# RailsTutorial
-
 # Ruby on Rails Tutorial
 
 ## "hello, world!"
