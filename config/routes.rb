@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
+=======
+  root 'application#goodbye'
+>>>>>>> 62874e04da81cc8bfe401fa3227594cb266c5f71
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
