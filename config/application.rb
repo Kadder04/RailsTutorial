@@ -6,11 +6,7 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-<<<<<<< HEAD
 module ToyApp
-=======
-module HelloApp
->>>>>>> 62874e04da81cc8bfe401fa3227594cb266c5f71
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
